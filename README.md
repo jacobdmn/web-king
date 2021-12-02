@@ -1,4 +1,5 @@
-# business landing page template
+# web-king
+## business landing page template
 ## template for businesses who develop landing pages and/or working on SEO projects
 ## [click to view](https://web-king.netlify.app)
 
